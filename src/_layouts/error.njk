@@ -1,0 +1,76 @@
+<!doctype html>
+
+<html
+  class="scroll-smooth logo-visible text-md (sm)text-md"
+  lang="en"
+>
+
+  <head>
+
+    <meta charset="utf-8">
+
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0"
+    >
+
+    <title>
+      {{ title }} - {{ site.name }}
+    </title>
+
+    <meta
+      name="description"
+      content="{% if description %}{{ description }}{% else %}{{ excerpt }}{% endif %}"
+    >
+
+    <link
+      rel="stylesheet"
+      href="/main.css{{ helpers.assetSuffix }}"
+    >
+
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href="{{ site.images.favicon }}"
+    >
+
+    <link
+      rel="canonical"
+      href="{{ site.url }}{{ page.url }}"
+    >
+
+  </head>
+
+  <body
+    class="font-default antialiased text-gray-7 (dark)text-gray-4 depth-normal bg-white (dark)bg-charcoal-1"
+    data-page="{{ id }}"
+  >
+
+    {% include "header.njk" %}
+
+    <div class="relative max-width-screen-1k margin-x-auto padding-x-6 width-full">
+      <div class="(lg)flex -margin-x-6">
+
+        {% include "sidebar.njk" %}
+
+        <main class="render-auto-highest main padding-t-4 padding-b-24 width-full min-height-screen (lg)static (lg)max-height-full (lg)overflow-visible (lg)width-3/5">
+
+          <article
+            class="article flex flex-1 flex-column (focus)outline style-none width-full max-width-xl-6 margin-l-auto margin-r-auto padding-x-6"
+            tabindex="-1"
+          >
+            {{ content | safe }}
+          </article>
+
+        </main>
+
+        {% include "extras.njk" %}
+
+      </div>
+    </div>
+
+    <script defer src="/main.js{{ helpers.assetSuffix }}"></script>
+
+  </body>
+
+</html>

@@ -1,0 +1,130 @@
+<div class="stack-2 sidebar hidden height-screen (lg)block sticky (lg)top-20 inset-0 (xs)padding-t-0 (lg)padding-t-0 (lg)padding-t-0 (lg)padding-b-16 (lg)-margin-b-16 (lg)width-1/5 (lg)overflow-y-visible">
+  <div class="sidebar-inner overflow-hidden height-full">
+
+    <nav class="sidebar-scroller padding-x-6 padding-y-0 inset-0 text-md (sm)text-sm overflow-y-auto overflow-x-hidden height-full">
+
+      <ul class="-margin-l-4">
+
+        {% for section in main.sections %}
+
+          <li class="margin-b-10">
+
+            <ul class="-margin-l-16">
+
+              {% for item in section.items %}
+
+              {% set is_current_page = page.url | replace('/', '') == item.url | replace('/', '') %}
+
+              <li class="(group) margin-b-px">
+                <a
+                  class="nav-link padding-x-4 padding-y-2 text-lg text-shade-granite-5 (hover)font-semibold (hover)text-underline {{ item.class }} {% if is_current_page %} selected {% endif %} curve-border-lg"
+                  href="{{ item.url | safe }}"
+                  target="{{ item.target }}"
+
+                  {% if is_current_page %}
+                    aria-current="page"
+                  {% endif %}
+                >
+                  <div class="flex justify-start items-center">
+                    <div>
+                      {{ item.label }}
+                    </div>
+                    {% if item.external %}
+                      <div class="external-link-icon">
+                        {% include "images/icons/arrow-right.svg" %}
+                      </div>
+                    {% endif %}
+                  </div>
+                </a>
+              </li>
+
+              {% endfor %}
+
+            </ul>
+          </li>
+
+        {% endfor %}
+
+        {% for data in extras.more %}
+
+          <li class="(sm)block (md)hidden (lg)hidden margin-b-6">
+
+            <span class="block -margin-l-4 margin-b-2 text-xl-1 text-shade-granite-5 uppercase font-bold">
+              {{ data.label }}
+            </span>
+
+            <ul class="-margin-l-16">
+
+              {% for item in data.items %}
+
+              {% set is_current_page = page.url | replace('/', '') == item.url | replace('/', '') %}
+
+              <li class="margin-b-px">
+                <a
+                  class="nav-link padding-x-4 padding-y-2 text-black-7 (hover)font-semibold (hover)text-underline {{ item.class }} {% if is_current_page %} selected {% endif %} curve-border-lg"
+                  href="{{ item.url | safe }}"
+
+                  {% if is_current_page %}
+                    aria-current="page"
+                  {% endif %}
+                >
+                  {{ item.label }}
+                  {% if item.external %}
+                    <span class="external-link-icon">
+                      {% include "images/icons/arrow-right.svg" %}
+                    </span>
+                  {% endif %}
+                </a>
+              </li>
+
+              {% endfor %}
+
+            </ul>
+          </li>
+
+        {% endfor %}
+
+        {% for section in navigation.sections %}
+
+          <li class="margin-b-6">
+
+            <span class="block -margin-l-4 margin-b-2 text-xl-1 text-shade-granite-5 uppercase font-bold">
+              {{ section.label }}
+            </span>
+
+            <ul class="-margin-l-16">
+
+              {% for item in section.items %}
+
+              {% set is_current_page = page.url | replace('/', '') == item.url | replace('/', '') %}
+
+              <li class="margin-b-px">
+                <a
+                  class="nav-link padding-x-4 padding-y-2 text-black-7 (hover)font-semibold (hover)text-underline {{ item.class }} {% if is_current_page %} selected {% endif %} curve-border-lg"
+                  href="{{ item.url | safe }}"
+
+                  {% if is_current_page %}
+                    aria-current="page"
+                  {% endif %}
+                >
+                  {{ item.label }}
+                  {% if item.external %}
+                    <span class="external-link-icon">
+                      {% include "images/icons/arrow-right.svg" %}
+                    </span>
+                  {% endif %}
+                </a>
+              </li>
+
+              {% endfor %}
+
+            </ul>
+          </li>
+
+        {% endfor %}
+
+      </ul>
+
+    </nav>
+  </div>
+</div>

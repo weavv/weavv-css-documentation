@@ -1,0 +1,240 @@
+{
+  "sections": [
+    {
+      "label": "Typography",
+      "items": [
+        { "label": "Font Family", "url": "/font-family/" },
+        { "label": "Font Size", "url": "/font-size/" },
+        { "label": "Font Smoothing", "url": "/font-smoothing/", "new": "n" },
+        { "label": "Font Style", "url": "/font-style/" },
+        { "label": "Font Weight", "url": "/font-weight/" },
+        { "label": "Column", "url": "/column/", "new": "n" },
+        { "label": "Counter", "url": "/counter/", "new": "n" },
+        { "label": "Glyphs", "url": "/glyphs/", "new": "n" },
+        { "label": "Letter Spacing", "url": "/letter-spacing/" },
+        { "label": "Line Height", "url": "/line-height/" },
+        { "label": "List Style Position", "url": "/list-style-position/" },
+        { "label": "List Style Type", "url": "/list-style-type/" },
+        { "label": "Placeholder Color", "url": "/placeholder-color/" },
+        { "label": "Text Align", "url": "/text-align/" },
+        { "label": "Text Clamp", "url": "/text-clamp/" },
+        { "label": "Text Color", "url": "/text-color/" },
+        { "label": "Text Decoration", "url": "/text-decoration/" },
+        { "label": "Text Transform", "url": "/text-transform/" },
+        { "label": "Text Stroke", "url": "/text-stroke/", "new": "n" },
+        { "label": "Text Stroke Color", "url": "/text-stroke-color/", "new": "n" },
+        { "label": "Vertical Align", "url": "/vertical-align/" },
+        { "label": "Whitespace", "url": "/whitespace/" },
+        { "label": "Word Break", "url": "/word-break/" },
+        { "label": "Writing Mode", "url": "/writing-mode/", "new": "n" }
+      ]
+    },
+    {
+      "label": "Layout",
+      "items": [
+        { "label": "Aspect Ratio", "url": "/aspect-ratio/", "new": "n" },
+        { "label": "Clear", "url": "/clear/" },
+        { "label": "Display", "url": "/display/" },
+        { "label": "Float", "url": "/float/" },
+        { "label": "Object Fit", "url": "/object-fit/" },
+        { "label": "Object Position", "url": "/object-position/" },
+        { "label": "Overflow", "url": "/overflow/" },
+        { "label": "Position", "url": "/position/" },
+        { "label": "Render", "url": "/content-visibility/", "new": "n" },
+        { "label": "Top/Bottom/Left/Right", "url": "/top-bottom-left-right/" },
+        { "label": "Visibility", "url": "/visibility/" },
+        { "label": "Z-Index", "url": "/z-index/" }
+      ]
+    },
+    {
+      "label": "Interactivity",
+      "items": [
+        { "label": "Appearance", "url": "/appearance/" },
+        { "label": "Accent Color", "url": "/accent-color/", "new": "n" },
+        { "label": "Cursor", "url": "/cursor/" },
+        { "label": "Outline", "url": "/outline/" },
+        { "label": "Overscroll", "url": "/overscroll/", "new": "n" },
+        { "label": "Pointer Events", "url": "/pointer-events/" },
+        { "label": "Resize", "url": "/resize/" },
+        { "label": "Scroll Bar", "url": "/scroll-bar/", "new": "n" },
+        { "label": "Scroll Smooth", "url": "/scroll-behavior/", "new": "n" },
+        { "label": "Scroll Snap", "url": "/scroll-snap/", "new": "n" },
+        { "label": "Scroll Padding", "url": "/scroll-padding/", "new": "n" },
+        { "label": "Scroll Margin", "url": "/scroll-margin/", "new": "n" },
+        { "label": "Text Highlight", "url": "/text-highlight/", "new": "n" },
+        { "label": "Touch Action", "url": "/touch-action/", "new": "n" },
+        { "label": "User Select", "url": "/user-select/" }
+      ]
+    },
+    {
+      "label": "Flexbox",
+      "items": [
+        { "label": "Flex", "url": "/flex/" },
+        { "label": "Flex Center", "url": "/flex-center/" },
+        { "label": "Direction", "url": "/flex-direction/" },
+        { "label": "Gap", "url": "/flex-gap/" },
+        { "label": "Grow", "url": "/flex-grow/" },
+        { "label": "Shrink", "url": "/flex-shrink/" },
+        { "label": "Basis", "url": "/flex-basis/" },
+        { "label": "Wrap", "url": "/flex-wrap/" },
+        { "label": "Align Content", "url": "/align-content/" },
+        { "label": "Align Items", "url": "/align-items/" },
+        { "label": "Align Self", "url": "/align-self/" },
+        { "label": "Justify Content", "url": "/justify-content/" },
+        { "label": "Order", "url": "/order/" }
+      ]
+    },
+    {
+      "label": "Backgrounds",
+      "items": [
+        { "label": "Attachment", "url": "/background-attachment/" },
+        { "label": "Blend", "url": "/background-blend/" },
+        { "label": "Border", "url": "/background-border/" },
+        { "label": "Color", "url": "/background-color/" },
+        { "label": "Gradient", "url": "/background-gradient/" },
+        { "label": "Gradient Presets", "url": "/background-gradient-presets/", "new": "n" },
+        { "label": "Opacity", "url": "/background-opacity/" },
+        { "label": "Position", "url": "/background-position/" },
+        { "label": "Repeat", "url": "/background-repeat/" },
+        { "label": "Size", "url": "/background-size/" }
+      ]
+    },
+    {
+      "label": "Borders",
+      "items": [
+        { "label": "Border Color", "url": "/border-color/" },
+        { "label": "Border Radius", "url": "/border-radius/" },
+        { "label": "Border Style", "url": "/border-style/" },
+        { "label": "Border Width", "url": "/border-width/" },
+        { "label": "Curve Object", "url": "/curve-object/", "new": "n" },
+        { "label": "Dissect", "url": "/dissect/" },
+        { "label": "Dissect Color", "url": "/dissect-color/" },
+        { "label": "Dissect Opacity", "url": "/dissect-opacity/" }
+      ]
+    },
+    {
+      "label": "Spacing",
+      "items": [
+        { "label": "Equal", "url": "/equal/", "new": "n" },
+        { "label": "Margin", "url": "/margin/" },
+        { "label": "Padding", "url": "/padding/" }
+      ]
+    },
+    {
+      "label": "Sizing",
+      "items": [
+        { "label": "Width", "url": "/width/" },
+        { "label": "Min Width", "url": "/min-width/" },
+        { "label": "Max Width", "url": "/max-width/" },
+        { "label": "Height", "url": "/height/" },
+        { "label": "Min Height", "url": "/min-height/" },
+        { "label": "Max Height", "url": "/max-height/" },
+        { "label": "Proportion Scale", "url": "/proportion-scale/", "new": "n" }
+      ]
+    },
+    {
+      "label": "Fluids",
+      "items": [
+        { "label": "Font Size", "url": "/fluid-font-size/", "new": "n" },
+        { "label": "Margin", "url": "/fluid-margin/", "new": "n" },
+        { "label": "Padding", "url": "/fluid-padding/", "new": "n" }
+      ]
+    },
+    {
+      "label": "Effects",
+      "items": [
+        { "label": "Box Shadow", "url": "/box-shadow/" },
+        { "label": "Box Shadow Color", "url": "/box-shadow-color/", "new": "n" },
+        { "label": "Text Offset Shadow", "url": "/text-offset-shadow/", "new": "n" },
+        { "label": "Text Neon Shadow", "url": "/text-neon-shadow/", "new": "n" },
+        { "label": "Mix Blend", "url": "/mix-blend/" },
+        { "label": "Opacity", "url": "/opacity/" }
+      ]
+    },
+    {
+      "label": "Filters",
+      "items": [
+        { "label": "Brightness", "url": "/filter-brightness/" },
+        { "label": "Blur", "url": "/filter-blur/" },
+        { "label": "Contrast", "url": "/filter-contrast/" },
+        { "label": "Drop Shadow", "url": "/filter-drop-shadow/", "new": "n" },
+        { "label": "Invert", "url": "/filter-invert/" },
+        { "label": "Saturate", "url": "/filter-saturate/" },
+        { "label": "Smooth", "url": "/filter-smooth/", "new": "n" },
+        { "label": "Backdrop Brightness", "url": "/filter-backdrop-brightness/", "new": "n" },
+        { "label": "Backdrop Blur", "url": "/filter-backdrop-blur/", "new": "n" },
+        { "label": "Backdrop Contrast", "url": "/filter-backdrop-contrast/", "new": "n" },
+        { "label": "Backdrop Saturate", "url": "/filter-backdrop-saturate/", "new": "n" }
+      ]
+    },
+    {
+      "label": "Animations",
+      "items": [
+        { "label": "Blur", "url": "/animation-blur/" },
+        { "label": "Fade", "url": "/animation-fade/" },
+        { "label": "Roll", "url": "/animation-roll/" },
+        { "label": "Slide", "url": "/animation-slide/" },
+        { "label": "Delay", "url": "/animation-delay/" },
+        { "label": "Duration", "url": "/animation-duration/" },
+        { "label": "Loop", "url": "/animation-loop/" }
+      ]
+    },
+    {
+      "label": "Transforms",
+      "items": [
+        { "label": "Origin", "url": "/transform-origin/" },
+        { "label": "Perspective", "url": "/transform-perspective/" },
+        { "label": "Translate", "url": "/translate/" },
+        { "label": "Rotate", "url": "/rotate/" },
+        { "label": "Scale", "url": "/scale/" },
+        { "label": "Skew", "url": "/skew/" }
+
+      ]
+    },
+    {
+      "label": "Transitions",
+      "items": [
+        { "label": "Property", "url": "/transition-property/" },
+        { "label": "Duration", "url": "/transition-duration/" },
+        { "label": "Timing", "url": "/transition-timing/" }
+      ]
+    },
+    {
+      "label": "Clipping",
+      "items": [
+        { "label": "Circle", "url": "/clip-circle/", "new": "n" },
+        { "label": "Ellipse", "url": "/clip-ellipse/", "new": "n" },
+        { "label": "Polygon", "url": "/clip-polygon/", "new": "n" }
+      ]
+    },
+    {
+      "label": "Theme",
+      "items": [
+        { "label": "Auto", "url": "/theme-auto/", "new": "n" },
+        { "label": "Invert", "url": "/theme-invert/", "new": "n" }
+      ]
+    },
+    {
+      "label": "Rendering",
+      "items": [
+        { "label": "Image", "url": "/image-rendering/", "new": "n" },
+        { "label": "Text", "url": "/text-rendering/", "new": "n" }
+      ]
+    },
+    {
+      "label": "SVG",
+      "items": [
+        { "label": "Fill", "url": "/svg-fill/" },
+        { "label": "Stroke", "url": "/svg-stroke/" },
+        { "label": "Stroke Width", "url": "/svg-stroke-width/" },
+        { "label": "Stroke Line Cap", "url": "/svg-stroke-linecap/", "new": "n" }
+      ]
+    },
+    {
+      "label": "Accessibility",
+      "items": [
+        { "label": "Screen Reader", "url": "/screen-reader/" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "cssdrawing": [
+    {
+      "items": [
+        { "title": "Checks", "class": "checks-sm" },
+        { "title": "Circle", "class": "circle-sm" },
+        { "title": "Cross Dots", "class": "cross-dots-sm" },
+        { "title": "Diagonal Lines", "class": "diagonal-lines-sm" },
+        { "title": "Diagonal Stripes", "class": "diagonal-stripes-sm" },
+        { "title": "Dots", "class": "dots-sm" },
+        { "title": "Grid", "class": "grid-sm" },
+        { "title": "Horizontal Lines", "class": "horizontal-lines-sm" },
+        { "title": "Horizontal Stripes", "class": "horizontal-stripes-sm" },
+        { "title": "Rhombus", "class": "rhombus-sm" },
+        { "title": "Ripple", "class": "ripple-sm" },
+        { "title": "Triangles", "class": "triangles-sm" },
+        { "title": "Vertical Lines", "class": "vertical-lines-sm" },
+        { "title": "Vertical Stripes", "class": "vertical-stripes-sm" },
+        { "title": "Zigzag", "class": "zigzag-sm" }
+      ]
+    }
+  ]
+}

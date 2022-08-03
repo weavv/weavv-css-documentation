@@ -1,0 +1,16 @@
+---
+hidden: true
+permalink: /api/search.json
+---
+[
+{% for page in collections.searchPages %}
+  {
+     "topic": "{{ page.data.topic }}",
+     "title":"{{ page.data.title }}",
+     "description":"{{ page.data.description }}",
+     "url":"{{ page.url }}",
+     "relate": "{{ page.data.relate }}",
+     "variant": "{{ page.data.variant }}"
+  }{% if loop.last != true %},{% endif %}
+{% endfor %}
+]

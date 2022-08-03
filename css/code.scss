@@ -1,0 +1,93 @@
+code {
+  &.language-html {
+    // color: #686e77;
+    color: #a0aec0;
+    white-space: pre-wrap;
+    overflow: hidden;
+  }
+
+  &.language-scss {
+    // color: #686e77;
+    color: #a0aec0;
+    white-space: pre-wrap;
+    overflow: hidden;
+  }
+
+  &.language-css {
+    // color: #686e77;
+    color: #a0aec0;
+    white-space: pre-wrap;
+    overflow: hidden;
+  }
+
+  &.language-bash {
+    // color: #686e77;
+    color: #a0aec0;
+    white-space: pre-wrap;
+    overflow: hidden;
+  }
+
+  &.language-js {
+    // color: #686e77;
+    color: #a0aec0;
+    white-space: pre-wrap;
+    overflow: hidden;
+  }
+}
+
+span {
+  &.token.comment {
+    // color: #a0aec0;
+    color: #5f6b79;
+  }
+
+  &.token.tag {
+    // color: #686e77;
+    color: #a0aec0;
+  }
+
+  &.token.attr-name {
+    // color: #686e77;
+    color: #a0aec0;
+  }
+
+  &.token.attr-value {
+    // color: #2d3748;
+    // color: #FFC107;
+    // color: #f8761f;
+    color: #00ccff;
+  }
+
+  &.token.punctuation {
+    // color: #686e77;
+    color: #a0aec0;
+  }
+
+  &.token.string {
+    // color: #686e77;
+    color: #a0aec0;
+  }
+
+  &.token.atrule-line {
+    // color: #686e77;
+    color: #a0aec0;
+  }
+
+  &.token.keyword {
+    color: #a0aec0;
+  }
+
+  &.token.function {
+    // color: #FFC107!important;
+    // color: #f8761f !important;
+    color: #00ccff !important;
+  }
+}
+
+.article pre[class*="language-"] {
+  overflow: hidden !important;
+  padding-left: 1em !important;
+  padding-right: 1em !important;
+  padding-top: 2em !important;
+  padding-bottom:1em !important;
+}

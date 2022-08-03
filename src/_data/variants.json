@@ -1,0 +1,4269 @@
+{
+  "screenreader": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "animationdelay": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "animationduration": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "animationloop": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "animationblur": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "animationfade": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "animationroll": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "animationslide": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "backgroundattachment": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "backgroundblend": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "y" },
+        { "variant": "Focus-Within", "enable": "y" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "backgroundborder": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "backgroundcolor": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "y" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "y" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "y" },
+        { "variant": "Focus", "enable": "y" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "y" },
+        { "variant": "Focus-Within", "enable": "y" },
+        { "variant": "Active", "enable": "y" },
+        { "variant": "Visited", "enable": "y" },
+        { "variant": "Checked", "enable": "y" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "backgroundgradient": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "y" },
+        { "variant": "Focus-Within", "enable": "y" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "backgroundopacity": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "y" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "y" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "y" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "backgroundposition": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "backgroundrepeat": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "backgroundsize": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "backgroundgradientpreset": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "y" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "y" },
+        { "variant": "Focus-Within", "enable": "y" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "bordercolor": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "y" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "y" },
+        { "variant": "Focus", "enable": "y" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "y" },
+        { "variant": "Focus-Within", "enable": "y" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "y" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "borderradius": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "y" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "curveobject": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "borderstyle": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "y" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "borderwidth": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "y" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "dissect": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "dissectcolor": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "dissectopacity": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "bordergradient": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "clippolygon": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "clipcircle": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "clipellipse": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "boxshadow": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "y" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "y" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "y" },
+        { "variant": "Focus-Within", "enable": "y" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "boxshadowcolor": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "y" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "y" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "y" },
+        { "variant": "Focus-Within", "enable": "y" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "mixblend": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "opacity": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "y" },
+        { "variant": "Focus", "enable": "y" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "y" },
+        { "variant": "Focus-Within", "enable": "y" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "textoffsetshadow": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "textneonshadow": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "filterbrightness": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-hover", "enable": "y" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "filterblur": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-hover", "enable": "y" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "filtercontrast": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-hover", "enable": "y" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "filtersmooth": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "filterdropshadow": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "filterinvert": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "y" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "y" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "filtersaturate": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-hover", "enable": "y" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "filterbackdropbrightness": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "filterbackdropblur": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "filterbackdropcontrast": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "filterbackdropsaturate": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "flex": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "y" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "flexdirection": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "y" },
+        { "variant": "Landscape", "enable": "y" },
+        { "variant": "Fullscreen", "enable": "y" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "flexgap": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "flexgrow": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "flexshrink": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "flexwrap": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "flexbasis": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "alignitems": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "y" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "aligncontent": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "y" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "alignself": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "y" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "justifycontent": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "y" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "order": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "fluidfontsize": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "fluidmargin": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "fluidpadding": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "overscroll": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "appearance": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "cursor": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "pointerevents": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "resize": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "scrollbehaviour": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "scrollsnap": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "scrollbar": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "touchaction": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "userselect": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "texthighlight": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "clear": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "display": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "y" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "aspectratio": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "float": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "objectfit": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "objectposition": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "overflow": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "position": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "y" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "contentvisibility": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "topbottomleftright": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "visibility": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "y" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "zindex": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "y" },
+        { "variant": "Child-Selection", "enable": "y" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "y" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "y" },
+        { "variant": "Focus-Within", "enable": "y" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "patternchecks": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "patterncircle": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "patternripple": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "patternrhombus": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "patterncrossdots": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "patterndots": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "patterngrid": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "patterntriangles": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "patternzigzag": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "patterndiagonallines": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "patterndiagonalstripes": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "patternhorizontallines": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "patternhorizontalstripes": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "patternverticallines": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "patternverticalstripes": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "width": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "y" },
+        { "variant": "First-Last-Selection", "enable": "y" },
+        { "variant": "Child-Selection", "enable": "y" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "y" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "minwidth": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "maxwidth": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "height": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "y" },
+        { "variant": "First-Last-Selection", "enable": "y" },
+        { "variant": "Child-Selection", "enable": "y" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "y" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "minheight": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "maxheight": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "proportionscale": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "margin": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "y" },
+        { "variant": "First-Last-Selection", "enable": "y" },
+        { "variant": "Child-Selection", "enable": "y" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "y" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "padding": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "y" },
+        { "variant": "First-Last-Selection", "enable": "y" },
+        { "variant": "Child-Selection", "enable": "y" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "y" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "equal": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "svgfill": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "svgstroke": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "svgstrokewidth": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "svgstrokelinecap": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "bordercollapse": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "tabletlayout": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "themeauto": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "themeinvert": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "transformorigin": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "y" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "y" },
+        { "variant": "Focus-Within", "enable": "y" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "transformperspective": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "rotate": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "y" },
+        { "variant": "Focus", "enable": "y" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "y" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "scale": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "y" },
+        { "variant": "Focus", "enable": "y" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "y" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "skew": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "y" },
+        { "variant": "Focus", "enable": "y" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "y" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "translate": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "y" },
+        { "variant": "Focus", "enable": "y" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "y" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "transitionproperty": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "y" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "transitionduration": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "transitiontiming": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "fontfamily": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "fontsize": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "y" },
+        { "variant": "Child-Selection", "enable": "y" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "y" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "fontsmoothing": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "fontstyle": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "fontweight": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "y" },
+        { "variant": "Child-Selection", "enable": "y" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "y" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "glyphs": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "letterspacing": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "lineheight": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "liststyletype": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "liststyleposition": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "placeholdercolor": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "y" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "y" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "textalign": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "y" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "textstrokewidth": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "textstrokecolor": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "textcolor": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "y" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "y" },
+        { "variant": "Child-Selection", "enable": "y" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "y" },
+        { "variant": "Focus", "enable": "y" },
+        { "variant": "Group-Focus", "enable": "y" },
+        { "variant": "Focus-Visible", "enable": "y" },
+        { "variant": "Focus-Within", "enable": "y" },
+        { "variant": "Active", "enable": "y" },
+        { "variant": "Visited", "enable": "y" },
+        { "variant": "Checked", "enable": "y" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "textclamp": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "textdecoration": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "y" },
+        { "variant": "Child-Selection", "enable": "y" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "y" },
+        { "variant": "Group-Hover", "enable": "y" },
+        { "variant": "Focus", "enable": "y" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "y" },
+        { "variant": "Focus-Within", "enable": "y" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "texttransform": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "y" },
+        { "variant": "Child-Selection", "enable": "y" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "verticalalign": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "whitespace": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "y" },
+        { "variant": "First-Last-Selection", "enable": "y" },
+        { "variant": "Child-Selection", "enable": "y" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "writingmode": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "wordbreak": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "counter": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "imagerendering": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "textrendering": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "googlefonts": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "y" },
+        { "variant": "Child-Selection", "enable": "y" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "flexcenter": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "y" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "y" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "column": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "y" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "scrollpadding": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ],
+  "scrollmargin": [
+    {
+      "pseudo": [
+        { "variant": "Responsive", "enable": "n" },
+        { "variant": "Dark Mode", "enable": "n" },
+        { "variant": "Light Mode", "enable": "n" },
+        { "variant": "Reduce-Motion", "enable": "n" },
+        { "variant": "Selection-Hover", "enable": "n" },
+        { "variant": "Expand", "enable": "n" },
+        { "variant": "First-Last-Selection", "enable": "n" },
+        { "variant": "Child-Selection", "enable": "n" },
+        { "variant": "Portrait", "enable": "n" },
+        { "variant": "Landscape", "enable": "n" },
+        { "variant": "Fullscreen", "enable": "n" },
+        { "variant": "Hover", "enable": "n" },
+        { "variant": "Group-Hover", "enable": "n" },
+        { "variant": "Focus", "enable": "n" },
+        { "variant": "Group-Focus", "enable": "n" },
+        { "variant": "Focus-Visible", "enable": "n" },
+        { "variant": "Focus-Within", "enable": "n" },
+        { "variant": "Active", "enable": "n" },
+        { "variant": "Visited", "enable": "n" },
+        { "variant": "Checked", "enable": "n" },
+        { "variant": "Disabled", "enable": "n" }
+      ]
+    }
+  ]
+}

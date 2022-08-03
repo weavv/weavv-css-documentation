@@ -1,0 +1,48 @@
+{
+  "gettingstarted": [
+    {
+      "panels": [
+        {
+          "title": "Installation",
+          "titlestyle": "margin-b-8 text-xl-4 font-thin text-white depth-tight-2 font-light transform (group-hover)-translate-x-2 (group-hover)-translate-y-2 transition duration-300 linear",
+          "desc": "Learn how to setup in your project.",
+          "panelbg": "bg-gradient-preset-12",
+          "url": "/installation/",
+          "button": "Installation",
+          "target": "_self",
+          "buttonstyle":"block padding-x-6 padding-y-3 text-xl-2 text-center (hover)text-underline text-shade-granite-5 (hover)text-white font-light bg-white (hover)bg-transparent bg-opacity-75 border-2 border-transparent (hover)border-white curve-border-lg (hover)shadow-dreamy-md transform (group-hover)translate-y-2 transition duration-200 linear"
+        },
+        {
+          "title": "Playground",
+          "titlestyle": "margin-b-8 text-xl-4 font-thin text-white depth-tight-2 font-light transform (group-hover)-translate-x-2 (group-hover)-translate-y-2 transition duration-300 linear",
+          "desc": "Build or testing something online.",
+          "panelbg": "bg-gradient-preset-11",
+          "url": "/playground/",
+          "button": "Playground",
+          "target": "_blank",
+          "buttonstyle":"block padding-x-6 padding-y-3 text-xl-2 text-center (hover)text-underline text-shade-granite-5 (hover)text-white font-light bg-white (hover)bg-transparent bg-opacity-75 border-2 border-transparent (hover)border-white curve-border-lg (hover)shadow-dreamy-md transform (group-hover)translate-y-2 transition duration-200 linear"
+        },
+        {
+          "title": "Create Empty Project",
+          "titlestyle": "margin-b-8 text-xl-4 font-thin text-white depth-tight-2 font-light transform (group-hover)-translate-x-2 (group-hover)-translate-y-2 transition duration-300 linear",
+          "desc": "Build project from scratch without CLI.",
+          "panelbg": "bg-gradient-preset-52",
+          "url": "/create-empty-project/",
+          "button": "Create Project",
+          "target": "_self",
+          "buttonstyle":"block padding-x-6 padding-y-3 text-xl-2 text-center (hover)text-underline text-shade-granite-5 (hover)text-white font-light bg-white (hover)bg-transparent bg-opacity-75 border-2 border-transparent (hover)border-white curve-border-lg (hover)shadow-dreamy-md transform (group-hover)translate-y-2 transition duration-200 linear"
+        },
+        {
+          "title": "Utility Map",
+          "titlestyle": "margin-b-8 text-xl-4 font-thin text-white depth-tight-2 font-light transform (group-hover)-translate-x-2 (group-hover)-translate-y-2 transition duration-300 linear",
+          "desc": "See all the utilities at a glance.",
+          "panelbg": "bg-gradient-preset-19",
+          "url": "/utility-map/",
+          "button": "Utility Map",
+          "target": "_self",
+          "buttonstyle":"block padding-x-6 padding-y-3 text-xl-2 text-center (hover)text-underline text-shade-granite-5 (hover)text-white font-light bg-white (hover)bg-transparent bg-opacity-75 border-2 border-transparent (hover)border-white curve-border-lg (hover)shadow-dreamy-md transform (group-hover)translate-y-2 transition duration-200 linear"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+<div class="flex flex-wrap justify-start items-center">
+
+  {% for data in support.donation %}
+    {% for item in data.portal %}
+
+      <a
+        class="block (xs)width-full (lg)width-1/2"
+        href="{{ item.url | safe }}"
+        target="_blank"
+        rel="noopener"
+      >
+        <div class="flex justify-start items-center padding-l-6 padding-r-4 padding-y-4 border-4 border-transparent (hover)border-gray-6 curve-border-lg transition duration-300 ease-in-out">
+          <img
+            class="height-16 width-16 object-contain object-center overflow-hidden"
+            src="{{ item.icon }}"
+            title="{{ item.title }}"
+            loading="lazy"
+          >
+          <div class="margin-x-6 flex flex-column">
+            <div class="text-xl-2 font-semibold">
+              {{ item.title }}
+            </div>
+            <div class="text-gray-6">
+              {{ item.desc }}
+            </div>
+          </div>
+        </div>
+      </a>
+
+    {% endfor %}
+  {% endfor %}
+
+</div>

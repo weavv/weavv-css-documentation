@@ -1,0 +1,26 @@
+{
+  "donation": [
+    {
+      "portal": [
+        {
+          "title": "Patreon",
+          "desc": "Become A Patreon!",
+          "url": "",
+          "icon": "/images/logo/patreon_512.png"
+        },
+        {
+          "title": "Ko-Fi",
+          "desc": "Buy Me Coffee!",
+          "url": "",
+          "icon": "/images/logo/ko-fi_512.png"
+        },
+        {
+          "title": "PayPal",
+          "desc": "Buy Me Breakfast!",
+          "url": "",
+          "icon": "/images/logo/paypal_512.png"
+        }
+      ]
+    }
+  ]
+}
