@@ -26,8 +26,8 @@ Any of the breakpoints that are prefixed with a utility, the utility value can b
 {{ console('scss',
 '.dummy {
     @extend
-      .\(xs\)text-lg,
-      .\(2k\)text-xl-4;
+      .\\(xs\\)text-lg,
+      .\\(2k\\)text-xl-4;
 }
 ') }}
 
@@ -91,13 +91,13 @@ To prefix the breakpoint name (e.g. `(xs)`, `(sm)`, `(md)`, `(lg)` and so on) wr
 {{ console('scss',
 '.dummy {
     @extend
-      .\(sm\)text-xl-1,
-      .\(lg\)text-md;
+      .\\(sm\\)text-xl-1,
+      .\\(lg\\)text-md;
 }
 .dummy {
     @extend
-      .\(sm\)bg-shade-amber-1,
-      .\(lg\)bg-shade-amber-5;
+      .\\(sm\\)bg-shade-amber-1,
+      .\\(lg\\)bg-shade-amber-5;
 }
 ') }}
 

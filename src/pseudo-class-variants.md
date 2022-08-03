@@ -37,6 +37,14 @@ Add the one of these prefixes `(xs)`, `(sm)`, `(md)`, `(lg)`, `(1k)`, `(2k)`, `(
   </div>
 ') }}
 
+{{ console('scss',
+'.example {
+    @extend
+      .\\(xs\\)text-lg,
+      .\\(2k\\)text-xl-4;
+}
+') }}
+
 ## Hover
 
 Add the `(hover)` prefix to a utility to enable on-hover.
@@ -48,13 +56,33 @@ Add the `(hover)` prefix to a utility to enable on-hover.
   </div>
 ') }}
 
+{{ console('scss',
+'.example {
+    @extend
+      .text-shade-granite-1,
+      .\\(hover\\)text-white,
+      .bg-white,
+      .\\(hover\\)bg-tint-granite-5;
+}
+') }}
+
 ## Focus
 
 Add the `(focus)` prefix to a utility to enable on-focus.
 
 {{ console('html',
 '<!-- Example -->
-<input class="bg-tint-granite-2 (focus)bg-tint-granite-5 border-transparent (focus)border-tint-graniet-5" placeholder="Focus me!">
+<input class="bg-tint-granite-2 (focus)bg-tint-granite-5 border-transparent (focus)border-tint-granite-5" placeholder="Focus me!">
+') }}
+
+{{ console('scss',
+'.example {
+    @extend
+      .bg-tint-granite-2,
+      .\\(focus\\)bg-tint-granite-5,
+      .border-transparent,
+      .\\(focus\\)border-tint-granite-5;
+}
 ') }}
 
 ## Focus-Within
@@ -63,9 +91,17 @@ Add the `(focus-within)` prefix to a utility to enable on-focused for child elem
 
 {{ console('html',
 '<!-- Example -->
-<div class="(focus-within)text-shade-laval-1 (focus-within)bg-tint-laval-5">
+<div class="(focus-within)text-shade-lava-1 (focus-within)bg-tint-lava-5">
     Title: <input placeholder="Focus me!">
   </div>
+') }}
+
+{{ console('scss',
+'.example {
+    @extend
+      .\\(focus-within\\)text-shade-lava-1,
+      .\\(focus-within\\)bg-tint-lava-5;
+}
 ') }}
 
 ## Focus-Visible
@@ -79,6 +115,14 @@ Add the `(focus-visible)` prefix to a utility to enable on-focused for child ele
   </div>
 ') }}
 
+{{ console('scss',
+'.example {
+    @extend
+      .bg-tint-granite-5,
+      .\\(focus-visible\\)bg-tint-granite-2;
+}
+') }}
+
 ## Active
 
 Add the `(active)` prefix to a utility to enable on-active.
@@ -88,6 +132,15 @@ Add the `(active)` prefix to a utility to enable on-active.
 <button class="bg-tint-granite-5 (active)bg-tint-granite-2 text-white">
     ...
   </button>
+') }}
+
+{{ console('scss',
+'.example {
+    @extend
+      .bg-tint-granite-5,
+      .\\(active\\)bg-tint-granite-2,
+      .text-white;
+}
 ') }}
 
 ## Visited
@@ -102,6 +155,15 @@ Add the `(visited)` prefix to a utility to enable on-visited.
   </a>
 ') }}
 
+{{ console('scss',
+'.example {
+    @extend
+      .text-shade-granite-1,
+      .\\(visited\\)text-shade-lava-1,
+      .\\(visited\\)text-underline;
+}
+') }}
+
 ## Checked
 
 Add the `(checked)` prefix to a utility to enable on-checked.
@@ -113,6 +175,15 @@ Add the `(checked)` prefix to a utility to enable on-checked.
   </button>
 ') }}
 
+{{ console('scss',
+'.example {
+    @extend
+      .\\(checked\\)text-white,
+      .\\(checked\\)bg-tint-granite-5,
+      .\\(checked\\)text-underline;
+}
+') }}
+
 ## Disabled
 
 Add the `(disabled)` prefix to a utility to enable on-disabled.
@@ -122,6 +193,14 @@ Add the `(disabled)` prefix to a utility to enable on-disabled.
 <button class="(disabled)text-shade-granite-1 (disabled)bg-tint-granite-5">
     ...
   </button>
+') }}
+
+{{ console('scss',
+'.example {
+    @extend
+      .\\(disabled\\)text-shade-granite-1,
+      .\\(disabled\\)bg-tint-granite-5;
+}
 ') }}
 
 ---
@@ -141,6 +220,15 @@ Add `(group)` class to the parent element and add the `(group-hover)` prefix to 
   </div>
 ') }}
 
+{{ console('scss',
+'.example {
+    @extend
+      .\\(group\\),
+      .bg-tint-granite-5,
+      .\\(hover\\)bg-tint-granite-1;
+}
+') }}
+
 ## Group-Focus
 
 Add `(group)` class to the parent element and add the `(group-focus)` prefix to a utility on the child element to enable group-focus.
@@ -152,6 +240,15 @@ Add `(group)` class to the parent element and add the `(group-focus)` prefix to 
       ...
     </div>
   </div>
+') }}
+
+{{ console('scss',
+'.example {
+    @extend
+      .\\(group\\),
+      .bg-tint-granite-5.
+      .\\(focus\\)bg-tint-granite-1;
+}
 ') }}
 
 ---
@@ -179,6 +276,16 @@ Add `(selection-hover)` prefix to `filter` utilities with set up parent and chil
   </div>
 ') }}
 
+{{ console('scss',
+'.example {
+    @extend
+      .\\(selection-hover\\)filter,
+      .saturate-0,
+      .blur-10,
+      .smooth-200;
+}
+') }}
+
 Default selected **Filters** utilities for `(selection-hover)` variant.
 
 - [Blur](/filter-blur/)
@@ -201,6 +308,14 @@ Add `(expand)` prefix to a utility in a parent element, the utility will take ef
     <div>...</div>
     ...
   </div>
+') }}
+
+{{ console('scss',
+'.example {
+    @extend
+      .\\(expand\\)margin-2,
+      .\\(expand\\)padding-4;
+}
 ') }}
 
 Default selected few utilities for `(expand)` variant.
@@ -226,6 +341,14 @@ Add `(first)` or `(last)` prefix to a utility in a parent element, the utility w
   </div>
 ') }}
 
+{{ console('scss',
+'.example {
+    @extend
+      .\\(first\\)text-xl-2,
+      .\\(last\\)text-xs;
+}
+') }}
+
 ---
 
 # Theme
@@ -236,9 +359,17 @@ Add the `(dark)` prefix to a utility when dark theme settings enabled.
 
 {{ console('html',
 '<!-- Example -->
-<div class="text-shade-granite-1 (dark)text-tint-graite-5">
+<div class="text-shade-granite-1 (dark)text-tint-granite-5">
     ...
   </div>
+') }}
+
+{{ console('scss',
+'.example {
+    @extend
+      .text-shade-granite-1,
+      .\\(dark\\)text-tint-granite-5;
+}
 ') }}
 
 ## Light Mode
@@ -250,6 +381,14 @@ Add the `(light)` prefix to a utility when light theme settings enabled.
 <div class="text-shade-granite-1 (light)text-shade-granite-5">
     ...
   </div>
+') }}
+
+{{ console('scss',
+'.example {
+    @extend
+      .text-shade-granite-1,
+      .\\(light\\)text-shade-granite-5;
+}
 ') }}
 
 <div class="margin-4 padding-3 border-l-8 text-sm">
@@ -293,6 +432,21 @@ Add the `(reduce-motion)` prefix to a utility reduce animation motion for reader
   </div>
 ') }}
 
+{{ console('scss',
+'.example {
+    @extend
+      .\\(reduce-motion\\)transition,
+      .duration-300,
+      .ease-in-out,
+      .border-4,
+      .border-tint-granite-5,
+      .\\(hover\\)border-tint-granite-1,
+      .\\(hover\\)shadow-lg,
+      .width-32,
+      .height-24;
+}
+') }}
+
 ---
 
 # Orientation
@@ -308,6 +462,14 @@ Add the `(portrait)` prefix to a utility when portrait settings enabled.
   </div>
 ') }}
 
+{{ console('scss',
+'.example {
+    @extend
+      .flex,
+      .\\(portrait\\)flex-column;
+}
+') }}
+
 ## Landscape
 
 Add the `(landscape)` prefix to a utility when landscape settings enabled.
@@ -319,7 +481,15 @@ Add the `(landscape)` prefix to a utility when landscape settings enabled.
   </div>
 ') }}
 
-<div class="margin-4 padding-3 border-l-8 border-tint-amber-1 text-sm text-shade-amber-1 (dark)text-shade-lime-1 bg-tint-amber-1 (dark)bg-tint-lime-5">
+{{ console('scss',
+'.example {
+    @extend
+      .flex,
+      .\\(landscape\\)flex-column;
+}
+') }}
+
+<div class="margin-4 padding-3 border-l-8 border-tint-amber-1 text-sm">
   <span class="padding-r-1 font-semibold">
     Note:
   </span>
