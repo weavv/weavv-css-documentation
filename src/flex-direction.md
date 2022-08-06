@@ -61,8 +61,9 @@ Set child elements in `flex-column` direction.
 
 {{ console('scss',
 '.dummy-parent {
-    .flex,
-    .flex-column;
+    @extend
+      .flex,
+      .flex-column;
 }
 ') }}
 
@@ -80,8 +81,9 @@ Set child elements in `flex-row` direction.
 
 {{ console('scss',
 '.dummy-parent {
-    .flex,
-    .flex-column;
+    @extend
+      .flex,
+      .flex-column;
 }
 ') }}
 
@@ -99,8 +101,9 @@ Set child elements in `flex-row-reverse` direction.
 
 {{ console('scss',
 '.dummy-parent {
-    .flex,
-    .flex-column;
+    @extend
+      .flex,
+      .flex-column;
 }
 ') }}
 
@@ -118,8 +121,9 @@ Set child elements in `flex-column-reverse` direction.
 
 {{ console('scss',
 '.dummy-parent {
-    .flex,
-    .flex-column;
+    @extend
+      .flex,
+      .flex-column;
 }
 ') }}
 

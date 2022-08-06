@@ -60,7 +60,7 @@ export default async () => {
     let relate = highlightWords(result.relate, searchTermMatcher);
     let variant = highlightWords(result.variant, searchTermMatcher);
     return `
-      <a class="stack-1 search-result block margin-b-2 padding-5 outline-none border-4 border-transparent (focus)border-tint-onyx-1 (hover)bg-tint-onyx-5 curve-border-lg"
+      <a class="stack-1 search-result block margin-b-2 padding-5 outline-none border-4 border-transparent (focus)border-tint-onyx-1 (hover)bg-tint-onyx-5 bg-opacity-25 curve-border-lg"
          href="${result.url}"
          target="_self"
          rel="noopener">
