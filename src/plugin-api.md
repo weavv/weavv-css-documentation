@@ -26,7 +26,7 @@ Locate and edit the `plugins.scss` in `/src/` directory at the root of `{{ site.
 {{ console('scss',
 "// enable or disable plugins
 $plugins: (
-  'component-name': false,
+    'component-name': false,
 );
 
 @if (map-get($plugins, 'component-name')) {
