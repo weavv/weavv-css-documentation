@@ -114,9 +114,9 @@ Install `{{ site.smallproductname }}-css` module.
 
 {{ console('bash',
 '# YARN
-$ yarn add weavv-css
+$ yarn add weavvcss
 # NPM
-$ npm i weavv-css
+$ npm i weavvcss
 ') }}
 
 Create a new directory for exported or preprocessed CSS.
