@@ -11,11 +11,11 @@ layout: default
 {% from "misc/console.njk" import console %}
 
 {{ console('html',
-'<link href="https://unpkg.com/weavv-css@1.0.0/dist/weavv-1.0.0.min.css" rel="stylesheet" rel="preload" as="style" media="all" defer>
+'<link href="https://unpkg.com/weavvcss@1.0.0/dist/weavv-1.0.0.min.css" rel="stylesheet" rel="preload" as="style" media="all" defer>
 ') }}
 
 {{ console('css',
-'@import "https://unpkg.com/weavv-css@1.0.0/dist/weavv-1.0.0.min.css";
+'@import "https://unpkg.com/weavvcss@1.0.0/dist/weavv-1.0.0.min.css";
 ') }}
 
 <div class="margin-t-4 margin-x-4 padding-3 border-l-8 text-sm">
@@ -80,11 +80,11 @@ You can include the {{ site.productname }} CSS file from the `node_modules` dire
 ") }}
 
 {{ console('scss',
-"@import 'node_modules/weavv-css/weavv';
+"@import 'node_modules/weavvcss/weavv';
 ") }}
 
 {{ console('html',
-'<link href="node_modules/weavv-css/dist/weavv-1.0.0.min.css" rel="stylesheet" rel="preload" as="style" media="all" defer>
+'<link href="node_modules/weavvcss/dist/weavv-1.0.0.min.css" rel="stylesheet" rel="preload" as="style" media="all" defer>
 ') }}
 
 <div class="margin-t-4 margin-x-4 padding-3 border-l-8">
