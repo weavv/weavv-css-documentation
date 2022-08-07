@@ -76,7 +76,7 @@ layout: default
 You can include the {{ site.productname }} CSS file from the `node_modules` directory with an HTML `<link>` tag or import the `{{ site.smallproductname }}.scss` into `.scss` file with `@import` directive.
 
 {{ console('js',
-"import 'weavv-css';
+"import 'weavvcss';
 ") }}
 
 {{ console('scss',
