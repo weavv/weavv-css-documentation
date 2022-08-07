@@ -42,17 +42,18 @@ Below are examples of how to use the **@extend `<selector ...>`** directive to e
 ### Examples
 
 {{ console('scss',
-'// @file: `src/custom.scss` in .scss
+'// @file: `src/_plugins.scss` in .scss
 .btn {
     @extend
       // WEAVV utility classes
+      .\\(expand\\)margin-4,
       .padding-x-2,
       .padding-y-1,
       .text-lg,
       .text-white,
       .font-semibold,
       .bg-tint-granite-1,
-      .\(hover\)bg-shade-amber-1,
+      .\\(hover\\)bg-shade-amber-1,
       .border,
       .border-shade-amber-3,
       .curve-border,
