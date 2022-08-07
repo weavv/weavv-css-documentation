@@ -83,7 +83,7 @@ Utilities for sets the shadow color to an element.
 '.dummy {
     @extend
       .shadow-lg-shade-lava-1,
-      .\(dark\)shadow-lg-shade-amber-1,
+      .\\(dark\\)shadow-lg-shade-amber-1,
       .bg-white,
       .width-32,
       .height-32;

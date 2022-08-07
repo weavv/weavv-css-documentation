@@ -89,7 +89,7 @@ Set default background color to `<body>` tag.
 '.dummy {
     @extend
       .bg-gray-2,
-      .\(dark\)bg-charcoal-1,
+      .\\(dark\\)bg-charcoal-1,
       .width-32,
       .height-32;
 }

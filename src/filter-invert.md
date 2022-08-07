@@ -80,6 +80,6 @@ Utilities for sets filter inverts effect to an element.
 '.dummy {
     @extend
       .invert-1,
-      \(dark\)invert-0;
+      .\\(dark\\)invert-0;
 }
 ') }}

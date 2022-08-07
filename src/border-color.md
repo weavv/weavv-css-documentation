@@ -75,8 +75,8 @@ Utilities for sets border color.
     @extend
       .border-8,
       .border-shade-lava-1,
-      .\(dark\)border-8,
-      .\(dark\)border-tint-granite-5;
+      .\\(dark\\)border-8,
+      .\\(dark\\)border-tint-granite-5;
 }
 ') }}
 

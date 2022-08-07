@@ -82,6 +82,6 @@ Set auto dark theme enabled to an element with added `(dark)` prefix.
 '.dummy {
     @extend
       .text-shade-granite-1,
-      .\(dark\)text-shade-charcoal-1;
+      .\\(dark\\)text-shade-charcoal-1;
 }
 ') }}

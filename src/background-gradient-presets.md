@@ -277,7 +277,7 @@ Set auto dark theme enabled to an element with added `(dark)` prefix.
 '.dummy {
     @extend
       .bg-gradient-preset-4,
-      .\(dark\)bg-gradient-preset-5,
+      .\\(dark\\)bg-gradient-preset-5,
       .width-64,
       .height-32;
 }

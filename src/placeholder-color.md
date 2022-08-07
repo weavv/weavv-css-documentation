@@ -61,7 +61,7 @@ Set auto dark theme enabled to an element with added `(dark)` prefix.
 'input {
     @extend
       .placeholder-tint-lava-1,
-      .\(dark\)placeholder-tint-lava-5;
+      .\\(dark\\)placeholder-tint-lava-5;
 }
 ') }}
 
