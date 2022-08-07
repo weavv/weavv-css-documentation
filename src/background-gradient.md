@@ -87,7 +87,7 @@ Set basic background gradient to an element, start color is `start-{color}` with
 </div>
 
 {{ console('html',
-'<div class="bg-gradient start-amber-4 start-10 stop-red-4 stop-90 angle-45 ... width-32 height-32">
+'<div class="bg-gradient start-shade-amber-1 start-10 stop-shade-lava-1 stop-90 angle-45 ... width-32 height-32">
     ...
   </div>
 ') }}
