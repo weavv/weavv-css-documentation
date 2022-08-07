@@ -68,9 +68,9 @@ layout: default
 
 {{ console('bash',
 '# YARN
-  $ yarn add weavv-css
+  $ yarn add weavvcss
   # NPM
-  $ npm i weavv-css
+  $ npm i weavvcss
 ') }}
 
 You can include the {{ site.productname }} CSS file from the `node_modules` directory with an HTML `<link>` tag or import the `{{ site.smallproductname }}.scss` into `.scss` file with `@import` directive.
