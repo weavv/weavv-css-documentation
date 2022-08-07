@@ -70,12 +70,12 @@ Mix blend with background colors.
       .height-32;
 }
 .dummy-blend-two {
-  @extend
-    .blend-screen,
-    .bg-tint-lime-4,
-    .-margin-t-24,
-    .margin-l-10,
-    .height-32;
+    @extend
+      .blend-screen,
+      .bg-tint-lime-4,
+      .-margin-t-24,
+      .margin-l-10,
+      .height-32;
 }
 ') }}
 
