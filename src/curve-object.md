@@ -85,7 +85,7 @@ Utilities for set border-radius to draw multiple curves abstract object to an el
 
 | <span class="padding-x-3 padding-y-1 text-white bg-shade-granite-5 font-semibold curve-border-md">class</span> | <span class="padding-x-3 padding-y-1 text-white bg-shade-granite-5 font-semibold curve-border-md">css</span> |
 |:--|:--|
-| <div class="padding-2 border-l-8 text-xs font-thin depth-tight-1">`curve-border-` will be rreplace with shorter name, just `curve-` on the next version <strong>1.0.1</strong></div> | |
+| | <div class="padding-2 border-l-8 text-xs font-thin depth-tight-1">`curve-border-` will be rreplace with shorter name, just `curve-` on the next version <strong>1.0.1</strong></div> |
 | curve-border-ltb-0 | --object-curve-left-top-bottom: 0%  |
 | curve-border-ltb-10 | --object-curve-left-top-bottom: 10% |
 | curve-border-ltb-20 | --object-curve-left-top-bottom: 20% |
@@ -100,7 +100,7 @@ Utilities for set border-radius to draw multiple curves abstract object to an el
 
 | <span class="padding-x-3 padding-y-1 text-white bg-shade-granite-5 font-semibold curve-border-md">class</span> | <span class="padding-x-3 padding-y-1 text-white bg-shade-granite-5 font-semibold curve-border-md">css</span> |
 |:--|:--|
-| <div class="padding-2 border-l-8 text-xs font-thin depth-tight-1">`curve-border-` will be rreplace with shorter name, just `curve-` on the next version <strong>1.0.1</strong></div> | |
+| | <div class="padding-2 border-l-8 text-xs font-thin depth-tight-1">`curve-border-` will be rreplace with shorter name, just `curve-` on the next version <strong>1.0.1</strong></div> |
 | curve-border-rtb-0 | --object-curve-right-top-bottom: 0% |
 | curve-border-rtb-10 | --object-curve-right-top-bottom: 10% |
 | curve-border-rtb-20 | --object-curve-right-top-bottom: 20% |
@@ -115,7 +115,7 @@ Utilities for set border-radius to draw multiple curves abstract object to an el
 
 | <span class="padding-x-3 padding-y-1 text-white bg-shade-granite-5 font-semibold curve-border-md">class</span> | <span class="padding-x-3 padding-y-1 text-white bg-shade-granite-5 font-semibold curve-border-md">css</span> |
 |:--|:--|
-| <div class="padding-2 border-l-8 text-xs font-thin depth-tight-1">`curve-border-` will be rreplace with shorter name, just `curve-` on the next version <strong>1.0.1</strong></div> | |
+| | <div class="padding-2 border-l-8 text-xs font-thin depth-tight-1">`curve-border-` will be rreplace with shorter name, just `curve-` on the next version <strong>1.0.1</strong></div> |
 | curve-border-rbt-0 | --object-curve-right-bottom-top: 0% |
 | curve-border-rbt-10 | --object-curve-right-bottom-top: 10% |
 | curve-border-rbt-20 | --object-curve-right-bottom-top: 20% |
@@ -130,7 +130,7 @@ Utilities for set border-radius to draw multiple curves abstract object to an el
 
 | <span class="padding-x-3 padding-y-1 text-white bg-shade-granite-5 font-semibold curve-border-md">class</span> | <span class="padding-x-3 padding-y-1 text-white bg-shade-granite-5 font-semibold curve-border-md">css</span> |
 |:--|:--|
-| <div class="padding-2 border-l-8 text-xs font-thin depth-tight-1">`curve-border-` will be rreplace with shorter name, just `curve-` on the next version <strong>1.0.1</strong></div> | |
+| | <div class="padding-2 border-l-8 text-xs font-thin depth-tight-1">`curve-border-` will be rreplace with shorter name, just `curve-` on the next version <strong>1.0.1</strong></div> |
 | curve-border-lbt-0 | --object-curve-left-bottom-top: 0% |
 | curve-border-lbt-10 | --object-curve-left-bottom-top: 10% |
 | curve-border-lbt-20 | --object-curve-left-bottom-top: 20% |
