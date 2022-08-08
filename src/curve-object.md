@@ -85,59 +85,63 @@ Utilities for set border-radius to draw multiple curves abstract object to an el
 
 | <span class="padding-x-3 padding-y-1 text-white bg-shade-granite-5 font-semibold curve-border-md">class</span> | <span class="padding-x-3 padding-y-1 text-white bg-shade-granite-5 font-semibold curve-border-md">css</span> |
 |:--|:--|
-| curve-ltb-0 | --object-curve-left-top-bottom: 0%  |
-| curve-ltb-10 | --object-curve-left-top-bottom: 10% |
-| curve-ltb-20 | --object-curve-left-top-bottom: 20% |
-| curve-ltb-30 | --object-curve-left-top-bottom: 30% |
-| curve-ltb-40 | --object-curve-left-top-bottom: 40% |
-| curve-ltb-50 | --object-curve-left-top-bottom: 50% |
-| curve-ltb-60 | --object-curve-left-top-bottom: 60% |
-| curve-ltb-70 | --object-curve-left-top-bottom: 70% |
-| curve-ltb-80 | --object-curve-left-top-bottom: 80% |
-| curve-ltb-90 | --object-curve-left-top-bottom: 90% |
-| curve-ltb-100 | --curveradius-left-top-bottom: 100% |
+| <div class="padding-2 border-l-8 text-xs font-thin depth-tight-1">`curve-border-` will be rreplace with shorter name, just `curve-` on the next version <strong>1.0.1</strong></div> | |
+| curve-border-ltb-0 | --object-curve-left-top-bottom: 0%  |
+| curve-border-ltb-10 | --object-curve-left-top-bottom: 10% |
+| curve-border-ltb-20 | --object-curve-left-top-bottom: 20% |
+| curve-border-ltb-30 | --object-curve-left-top-bottom: 30% |
+| curve-border-ltb-40 | --object-curve-left-top-bottom: 40% |
+| curve-border-ltb-50 | --object-curve-left-top-bottom: 50% |
+| curve-border-ltb-60 | --object-curve-left-top-bottom: 60% |
+| curve-border-ltb-70 | --object-curve-left-top-bottom: 70% |
+| curve-border-ltb-80 | --object-curve-left-top-bottom: 80% |
+| curve-border-ltb-90 | --object-curve-left-top-bottom: 90% |
+| curve-border-ltb-100 | --curveradius-left-top-bottom: 100% |
 
 | <span class="padding-x-3 padding-y-1 text-white bg-shade-granite-5 font-semibold curve-border-md">class</span> | <span class="padding-x-3 padding-y-1 text-white bg-shade-granite-5 font-semibold curve-border-md">css</span> |
 |:--|:--|
-| curve-rtb-0 | --object-curve-right-top-bottom: 0% |
-| curve-rtb-10 | --object-curve-right-top-bottom: 10% |
-| curve-rtb-20 | --object-curve-right-top-bottom: 20% |
-| curve-rtb-30 | --object-curve-right-top-bottom: 30% |
-| curve-rtb-40 | --object-curve-right-top-bottom: 40% |
-| curve-rtb-50 | --object-curve-right-top-bottom: 50% |
-| curve-rtb-60 | --object-curve-right-top-bottom: 60% |
-| curve-rtb-70 | --object-curve-right-top-bottom: 70% |
-| curve-rtb-80 | --object-curve-right-top-bottom: 80% |
-| curve-rtb-90 | --object-curve-right-top-bottom: 90% |
-| curve-rtb-100 | --object-curve-right-top-bottom: 100% |
+| <div class="padding-2 border-l-8 text-xs font-thin depth-tight-1">`curve-border-` will be rreplace with shorter name, just `curve-` on the next version <strong>1.0.1</strong></div> | |
+| curve-border-rtb-0 | --object-curve-right-top-bottom: 0% |
+| curve-border-rtb-10 | --object-curve-right-top-bottom: 10% |
+| curve-border-rtb-20 | --object-curve-right-top-bottom: 20% |
+| curve-border-rtb-30 | --object-curve-right-top-bottom: 30% |
+| curve-border-rtb-40 | --object-curve-right-top-bottom: 40% |
+| curve-border-rtb-50 | --object-curve-right-top-bottom: 50% |
+| curve-border-rtb-60 | --object-curve-right-top-bottom: 60% |
+| curve-border-rtb-70 | --object-curve-right-top-bottom: 70% |
+| curve-border-rtb-80 | --object-curve-right-top-bottom: 80% |
+| curve-border-rtb-90 | --object-curve-right-top-bottom: 90% |
+| curve-border-rtb-100 | --object-curve-right-top-bottom: 100% |
 
 | <span class="padding-x-3 padding-y-1 text-white bg-shade-granite-5 font-semibold curve-border-md">class</span> | <span class="padding-x-3 padding-y-1 text-white bg-shade-granite-5 font-semibold curve-border-md">css</span> |
 |:--|:--|
-| curve-rbt-0 | --object-curve-right-bottom-top: 0% |
-| curve-rbt-10 | --object-curve-right-bottom-top: 10% |
-| curve-rbt-20 | --object-curve-right-bottom-top: 20% |
-| curve-rbt-30 | --object-curve-right-bottom-top: 30% |
-| curve-rbt-40 | --object-curve-right-bottom-top: 40% |
-| curve-rbt-50 | --object-curve-right-bottom-top: 50% |
-| curve-rbt-60 | --object-curve-right-bottom-top: 60% |
-| curve-rbt-70 | --object-curve-right-bottom-top: 70% |
-| curve-rbt-80 | --object-curve-right-bottom-top: 80% |
-| curve-rbt-90 | --object-curve-right-bottom-top: 90% |
-| curve-rbt-100 | --object-curve-right-bottom-top: 100% |
+| <div class="padding-2 border-l-8 text-xs font-thin depth-tight-1">`curve-border-` will be rreplace with shorter name, just `curve-` on the next version <strong>1.0.1</strong></div> | |
+| curve-border-rbt-0 | --object-curve-right-bottom-top: 0% |
+| curve-border-rbt-10 | --object-curve-right-bottom-top: 10% |
+| curve-border-rbt-20 | --object-curve-right-bottom-top: 20% |
+| curve-border-rbt-30 | --object-curve-right-bottom-top: 30% |
+| curve-border-rbt-40 | --object-curve-right-bottom-top: 40% |
+| curve-border-rbt-50 | --object-curve-right-bottom-top: 50% |
+| curve-border-rbt-60 | --object-curve-right-bottom-top: 60% |
+| curve-border-rbt-70 | --object-curve-right-bottom-top: 70% |
+| curve-border-rbt-80 | --object-curve-right-bottom-top: 80% |
+| curve-border-rbt-90 | --object-curve-right-bottom-top: 90% |
+| curve-border-rbt-100 | --object-curve-right-bottom-top: 100% |
 
 | <span class="padding-x-3 padding-y-1 text-white bg-shade-granite-5 font-semibold curve-border-md">class</span> | <span class="padding-x-3 padding-y-1 text-white bg-shade-granite-5 font-semibold curve-border-md">css</span> |
 |:--|:--|
-| curve-lbt-0 | --object-curve-left-bottom-top: 0% |
-| curve-lbt-10 | --object-curve-left-bottom-top: 10% |
-| curve-lbt-20 | --object-curve-left-bottom-top: 20% |
-| curve-lbt-30 | --object-curve-left-bottom-top: 30% |
-| curve-lbt-40 | --object-curve-left-bottom-top: 40% |
-| curve-lbt-50 | --object-curve-left-bottom-top: 50% |
-| curve-lbt-60 | --object-curve-left-bottom-top: 60% |
-| curve-lbt-70 | --object-curve-left-bottom-top: 70% |
-| curve-lbt-80 | --object-curve-left-bottom-top: 80% |
-| curve-lbt-90 | --object-curve-left-bottom-top: 90% |
-| curve-lbt-100 | --object-curve-left-bottom-top: 100% |
+| <div class="padding-2 border-l-8 text-xs font-thin depth-tight-1">`curve-border-` will be rreplace with shorter name, just `curve-` on the next version <strong>1.0.1</strong></div> | |
+| curve-border-lbt-0 | --object-curve-left-bottom-top: 0% |
+| curve-border-lbt-10 | --object-curve-left-bottom-top: 10% |
+| curve-border-lbt-20 | --object-curve-left-bottom-top: 20% |
+| curve-border-lbt-30 | --object-curve-left-bottom-top: 30% |
+| curve-border-lbt-40 | --object-curve-left-bottom-top: 40% |
+| curve-border-lbt-50 | --object-curve-left-bottom-top: 50% |
+| curve-border-lbt-60 | --object-curve-left-bottom-top: 60% |
+| curve-border-lbt-70 | --object-curve-left-bottom-top: 70% |
+| curve-border-lbt-80 | --object-curve-left-bottom-top: 80% |
+| curve-border-lbt-90 | --object-curve-left-bottom-top: 90% |
+| curve-border-lbt-100 | --object-curve-left-bottom-top: 100% |
 
 ---
 
@@ -152,7 +156,7 @@ Utilities for set border-radius to draw multiple curves abstract object to an el
       absolute top-0 left-0
       curve-object
       radius-tr-100 radius-bl-100
-      curve-rtb-100 curve-lbt-100 curve-rbt-100 ...
+      curve-border-rtb-100 curve-border-lbt-100 curve-border-rbt-100 ...
       transform (group-hover)scale-50 (group-hover)rotate-45 ...
       transition duration-1000 ease ...
       bg-tint-teal-5 width-48 height-48
@@ -162,7 +166,7 @@ Utilities for set border-radius to draw multiple curves abstract object to an el
       absolute top-0 left-0
       curve-object
       radius-tr-100 radius-bl-100
-      curve-rtb-100 curve-lbt-100 curve-rbt-100 ...
+      curve-border-rtb-100 curve-border-lbt-100 curve-border-rbt-100 ...
       transform (group-hover)scale-50 (group-hover)rotate-45 ...
       transition duration-200 ease ...
       bg-tint-teal-5 width-48 height-48
@@ -182,7 +186,7 @@ Utilities for set border-radius to draw multiple curves abstract object to an el
 </div>
 
 {{ console('html',
-'<div class="curve-object radius-tr-100 radius-bl-100 curve-rtb-100 curve-lbt-100 curve-rbt-100 ... width-64 height-64 ... bg-tint-teal-5">
+'<div class="curve-object radius-tr-100 radius-bl-100 curve-border-rtb-100 curve-border-lbt-100 curve-border-rbt-100 ... width-64 height-64 ... bg-tint-teal-5">
     ...
   </div>
 ') }}
@@ -193,9 +197,9 @@ Utilities for set border-radius to draw multiple curves abstract object to an el
       .curve-object,
       .radius-tr-100,
       .radius-bl-100,
-      .curve-rtb-100,
-      .curve-lbt-100,
-      .curve-rbt-100,
+      .curve-border-rtb-100,
+      .curve-border-lbt-100,
+      .curve-border-rbt-100,
       .width-64,
       .height-64,
       .bg-tint-teal-5;
