@@ -85,8 +85,22 @@ Utilities for set the multiple paragraphs text into columns to adjust and balanc
 
 Content split with 3 columns.
 
+<div class="padding-x-4 padding-y-2 margin-x-auto width-full">
+  <div class="padding-x-8 text-sm column count-3 size-10 gap-3">
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    </p>
+  </div>
+</div>
+
 {{ console('html',
-'<div class="column count-3 size-20 gap-3">
+'<div class="column count-3 size-10 gap-3">
     <p> ... </p>
     <p> ... </p>
     <p> ... </p>
@@ -98,15 +112,29 @@ Content split with 3 columns.
     @extend
       .column,
       .count-3,
-      .size-20,
+      .size-10,
       .gap-3;
 }
 ') }}
 
 Countent split with 3 columns, each content has spacing and separator bar.
 
+<div class="padding-x-4 padding-y-2 margin-x-auto width-full">
+  <div class="padding-x-8 text-sm column count-3 size-10 gap-3 ... bar-size-4 bar-dotted bar-tint-violet-1">
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    </p>
+  </div>
+</div>
+
 {{ console('html',
-'<div class="column count-3 size-20 gap-3 ... bar-size-2 bar-dotted ... bar-tint-violet-1">
+'<div class="column count-3 size-10 gap-3 ... bar-size-2 bar-dotted ... bar-tint-violet-1">
     <p> ... </p>
     <p> ... </p>
     <p> ... </p>
@@ -118,9 +146,10 @@ Countent split with 3 columns, each content has spacing and separator bar.
     @extend
       .column,
       .count-3,
-      .size-20,
+      .size-10,
       .gap-3,
       .bar-size-2,
-      .bar-dotted;
+      .bar-dotted,
+      .bar-tint-violet-1;
 }
 ') }}

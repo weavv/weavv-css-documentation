@@ -42,22 +42,26 @@ Utilities for resizing width and height in the proportion of an element.
 
 {% from "misc/console.njk" import console %}
 
-Proportion scale set to `2`, `3` and `4` for `width-12` and `height-12` utilities.
+Proportion scale set to `2`, `3` and `4` for `width-4` and `height-4` utilities.
 
-<div class="padding-4 margin-y-4 margin-x-auto">
-  <div class="max-width-xl-3 flex justify-center items-center">
-    <div class="(expand)margin-16 (expand)padding-2 (expand)width-12 (expand)height-12 (expand)bg-tint-granite-4 (expand)text-center text-shade-granite-1 text-xs flex">
-      <div class="proportion-scale-2 text-xs">
-        scale 2x
+    <div class="padding-4 margin-y-4 margin-x-auto">
+      <div class="max-width-xl-3 flex justify-center items-center">
+        <div class="(expand)margin-r-8 (expand)bg-tint-granite-4 flex (expand)padding-4">
+          <div class="width-24 height-24">
+            Scale 2x
+          </div>
+          <div class="width-48 height-48 bg-tint-onyx-5">
+            Scale 3x
+          </div>
+          <div class="width-64 height-64">
+            Scale 4x
+          </div>
+        </div>
       </div>
-      <div class="proportion-scale-3 bg-tint-granite-5">scale 3x</div>
-      <div class="proportion-scale-4">scale 4x</div>
     </div>
-  </div>
-</div>
 
 {{ console('html',
-'<div class="proportion-scale-3 ... width-12 height-12">
+'<div class="proportion-scale-3 ... width-4 height-4">
     ...
   </div>
 ') }}
@@ -66,8 +70,8 @@ Proportion scale set to `2`, `3` and `4` for `width-12` and `height-12` utilitie
 '.dummy {
     @extend
       .proportion-scale-3,
-      .width-12,
-      .height-12;
+      .width-4,
+      .height-4;
 }
 ') }}
 
