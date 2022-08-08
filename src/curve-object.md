@@ -159,7 +159,7 @@ Utilities for set border-radius to draw multiple curves abstract object to an el
       curve-border-rtb-100 curve-border-lbt-100 curve-border-rbt-100 ...
       transform (group-hover)scale-50 (group-hover)rotate-45 ...
       transition duration-1000 ease ...
-      bg-tint-teal-5 width-48 height-48
+      bg-tint-teal-1 width-48 height-48
     "></div>
     <div class="
       stack-1
@@ -169,14 +169,14 @@ Utilities for set border-radius to draw multiple curves abstract object to an el
       curve-border-rtb-100 curve-border-lbt-100 curve-border-rbt-100 ...
       transform (group-hover)scale-50 (group-hover)rotate-45 ...
       transition duration-200 ease ...
-      bg-tint-teal-5 width-48 height-48
+      bg-tint-teal-3 width-48 height-48
     "></div>
     <div class="
       stack-3 absolute top-0 left-0">
       <div class="
         padding-3
         text-xl-1 font-mono ...
-        text-gray-1 (group-hover)text-gray-8
+        text-tint-onyx-5 (group-hover)text-tint-onyx-5
         depth-tight-2
       ">
         Hover <br> Me
