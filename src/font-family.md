@@ -114,6 +114,23 @@ Built-in handpicked 30 font types from Google Fonts.
 | font-source-serif-pro | font-family: "Source Serif Pro", sans-serif | <div class="padding-x-2 text-lg font-source-serif-pro bg-white">Text</div> |
 | font-spectral | font-family: "Spectral", sans-serif | <div class="padding-x-2 text-lg font-spectral bg-white">Text</div> |
 
+| <span class="padding-x-3 padding-y-1 text-white bg-shade-granite-5 font-semibold curve-border-md">class</span> | <span class="padding-x-3 padding-y-1 text-white bg-shade-granite-5 font-semibold curve-border-md">css</span> | |
+|:--|:--|:-:|
+| font-noto-sans-hk | font-family: "Noto Sans HK", sans-serif | <div class="padding-x-2 text-xl-1 font-noto-sans-hk bg-white">Text</div> |
+| font-noto-sans-sc | font-family: "Noto Sans SC", sans-serif | <div class="padding-x-2 text-xl-1 font-noto-sans-sc bg-white">Text</div> |
+| font-noto-serif-sc | font-family: "Noto Serif SC", sans-serif | <div class="padding-x-2 text-xl-1 font-noto-serif-sc bg-white">Text</div> |
+| font-zcool-qingke-huangyou | font-family: "ZCOOL Qingke HuangYou", sans-serif | <div class="padding-x-2 text-xl-1 font-zcool-qingke-huangyou bg-white">Text</div> |
+| font-zcool-kuaile | font-family: "ZCOOL KuaiLe", sans-serif | <div class="padding-x-2 text-xl-1 font-zcool-kuaile bg-white">Text</div> |
+
+| <span class="padding-x-3 padding-y-1 text-white bg-shade-granite-5 font-semibold curve-border-md">class</span> | <span class="padding-x-3 padding-y-1 text-white bg-shade-granite-5 font-semibold curve-border-md">css</span> | |
+|:--|:--|:-:|
+| font-noto-serif-jp | font-family: "Noto Serif JP", sans-serif | <div class="padding-x-2 text-xl-1 font-noto-serif-jp bg-white">Text</div> |
+| font-m-plus-rounded-1c | font-family: "M Plus Rounded 1c", sans-serif | <div class="padding-x-2 text-xl-1 font-m-plus-rounded-1c bg-white">Text</div> |
+| font-kaisei-opti | font-family: "Kaisei Opti", sans-serif | <div class="padding-x-2 text-xl-1 font-kaisei-opti bg-white">Text</div> |
+| font-zen-maru-gothic | font-family: "Zen Maru Gothic", sans-serif | <div class="padding-x-2 text-xl-1 font-zen-maru-gothic bg-white">Text</div> |
+| font-dela-gothic-one | font-family: "Dela Gothic One", sans-serif | <div class="padding-x-2 text-xl-1 font-dela-gothic-one bg-white">Text</div> |
+| font-stick | font-family: "Stick", sans-serif | <div class="padding-x-2 text-xl-1 font-stick bg-white">Text</div> |
+
 ---
 
 ## Usage

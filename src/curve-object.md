@@ -147,7 +147,6 @@ Utilities for set border-radius to draw multiple curves abstract object to an el
 
 ## Usage
 
-{% from "misc/console.njk" import console %}
 
 <div class="padding-x-4 margin-t-4 margin-b-32 margin-x-auto width-64">
   <div class="relative (group) cursor-pointer">
