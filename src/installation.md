@@ -118,9 +118,9 @@ To create a new project, run:
 
 {{ console('bash',
 '# YARN
-  $ yarn create weavv my-new-project
+  $ yarn create weavv-cli my-new-project
   # NPM
-  $ npx weavv my-new-project
+  $ npx weavv-cli my-new-project
 ') }}
 
 The CLI gives you an optional tool to quickly installs and sets up a new frontend project with essential build tools such as preprocessors, postprocessors, etc. Use the tool for the production-ready build.
@@ -129,9 +129,9 @@ If you install the `{{ site.smallproductname }}-cli` package to run locally, sim
 
 {{ console('bash',
 '# YARN
-  $ yarn global add weavv
+  $ yarn global add weavv-cli
   # NPM
-  $ npm i -g weavv
+  $ npm i -g weavv-cli
   # USAGE
   $ weavv my-new-project
 ') }}
