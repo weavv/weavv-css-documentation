@@ -6,12 +6,12 @@
 
 > [Read the official documentation](https://weavvcss.netlify.app)
 
-### Developer Tools
+## Developer Tools
 
-- [WEAVV Playground](https://weavvcss.netlify.app/playground) - Live code editor for testing and prototyping.
-- [WEAVV CLI](https://www.npmjs.com/package/weavv) - Create empty project on-the-go with preprocessing and postprocessing options.
+- [WEAVV Playground](https://weavvcss.netlify.app/playground) - Online code editor for testing and prototyping UI design with WEAVV.
+- [WEAVV CLI](https://www.npmjs.com/package/weavv-cli) - Create empty project on-the-go with example template, written with Vanilla JS web component. Optional to use HTML inline CSS class or to use SASS with `@extend` directive to extract WEAVV CSS classes in semantic way.
 
-### Features
+## Features
 
 - [Breakpoints](https://weavvcss.netlify.app/responsive-utilities/)
 - [Dark/Light Mode](https://weavvcss.netlify.app/getting-started-themes/)
@@ -25,7 +25,7 @@
 - [Orientation](https://weavvcss.netlify.app/getting-started-orientation)
 - [Plugin API](https://weavvcss.netlify.app/plugin-api/)
 
-### Build
+## Build
 
 clone the repository,
 
