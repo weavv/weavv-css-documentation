@@ -52,6 +52,10 @@ $ yarn dev
 $ npm run dev
 ```
 
+## Credits
+
+[Nunjunks](https://mozilla.github.io/nunjucks/), [Gulp](https://gulpjs.com/), [NodeJS](https://nodejs.org/), [Sass](https://sass-lang.com/)
+
 ---
 
 [MIT](https://github.com/weavv/weavv-css/blob/master/LICENSE)
