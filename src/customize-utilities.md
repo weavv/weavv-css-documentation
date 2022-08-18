@@ -21,8 +21,8 @@ To customize the {{ site.productname }} CSS framework by `enable` or `disable` t
 
 ## Configure Utility Components
 
-File location: `.src/configs/components/_full.scss`.
-File location: `.src/configs/components/_minimal.scss`.
+File location: `.src/full.scss`.
+File location: `.src/minimal.scss`.
 
 ## Configure Variants
 
