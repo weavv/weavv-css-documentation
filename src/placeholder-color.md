@@ -2,12 +2,12 @@
 id: placeholder-color
 title: Placeholder Color
 description: Utilities for sets the placeholder color using the ::placeholder pseudo element.
-topic: Typography
+topic: Interactivity
 variant: dark-mode, focus
 layout: default
 ---
 
-> Typography
+> Interactivity
 
 # Placeholder Color
 
