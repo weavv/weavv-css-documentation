@@ -555,7 +555,7 @@
         { "variant": "Reduce-Motion", "enable": "n" },
         { "variant": "Responsive", "enable": "y" },
         { "variant": "Selection-Hover", "enable": "n" },
-        { "variant": "Visited", "enable": "n" },
+        { "variant": "Visited", "enable": "n" }
       ]
     }
   ],
