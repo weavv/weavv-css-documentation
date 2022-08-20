@@ -352,12 +352,12 @@ Add `(first)` or `(last)` prefix to a utility in a parent element, the utility w
 
 ## First Letter
 
-Add `(first-letter)` prefix to a utility in a parent element, the utility will take effect to child element containing text and apply effect to first letter of the text.
+Add `(first-letter)` prefix to a utility in a parent element, the utility will take effect on the child element containing text and apply the effect to the first letter of the text.
 
 {{ console('html',
 '<!-- Example -->
 <!-- parent -->
-<div class="(first)text-xl-2 (last)text-xs">
+<div class="(first-letter)text-xl-2 (first-letter)text-tint-lava-2 (first-letter)font-semibold">
     <!-- child -->
     <div>...</div>
     <div>...</div>
@@ -368,8 +368,9 @@ Add `(first-letter)` prefix to a utility in a parent element, the utility will t
 {{ console('scss',
 '.example {
     @extend
-      .\\(first\\)text-xl-2,
-      .\\(last\\)text-xs;
+      .\\(first-letter\\)text-xl-2,
+      .\\(first-letter\\)text-tint-lava-2,
+      .\\(first-letter\\)font-semibold;
 }
 ') }}
 
