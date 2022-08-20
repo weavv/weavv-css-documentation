@@ -11,11 +11,11 @@ layout: default
 {% from "misc/console.njk" import console %}
 
 {{ console('html',
-'<link href="https://unpkg.com/weavvcss@1.0.1/dist/weavv-1.0.1.min.css" rel="stylesheet" rel="preload" as="style" media="all" defer>
+'<link href="https://unpkg.com/weavvcss@1.0.2/dist/weavv-1.0.2.min.css" rel="stylesheet" rel="preload" as="style" media="all" defer>
 ') }}
 
 {{ console('css',
-'@import "https://unpkg.com/weavvcss@1.0.1/dist/weavv-1.0.1.min.css";
+'@import "https://unpkg.com/weavvcss@1.0.2/dist/weavv-1.0.2.min.css";
 ') }}
 
 <div class="margin-t-4 margin-x-4 padding-3 border-l-8 text-sm">
@@ -84,7 +84,7 @@ You can include the {{ site.productname }} CSS file from the `node_modules` dire
 ") }}
 
 {{ console('html',
-'<link href="node_modules/weavvcss/dist/weavv-1.0.1.min.css" rel="stylesheet" rel="preload" as="style" media="all" defer>
+'<link href="node_modules/weavvcss/dist/weavv-1.0.2.min.css" rel="stylesheet" rel="preload" as="style" media="all" defer>
 ') }}
 
 <div class="margin-t-4 margin-x-4 padding-3 border-l-8">
@@ -113,6 +113,8 @@ You can include the {{ site.productname }} CSS file from the `node_modules` dire
 </div>
 
 # CLI
+
+Create an empty project on the go with an example template, written with the Vanilla JS web component. Optional to use HTML inline CSS class or to use SASS with `@extend` directive to extract WEAVV CSS classes semantically.
 
 To create a new project, run:
 
