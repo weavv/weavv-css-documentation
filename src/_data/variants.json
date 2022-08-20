@@ -90,7 +90,7 @@
         { "variant": "Checked", "enable": "n" },
         { "variant": "Child-Selection", "enable": "n" },
         { "variant": "Dark Mode", "enable": "n" },
-        { "variant": "Disabled", "enable": "n" }
+        { "variant": "Disabled", "enable": "n" },
         { "variant": "Expand", "enable": "n" },
         { "variant": "First-Last-Selection", "enable": "n" },
         { "variant": "First-Letter", "enable": "n" },
@@ -118,7 +118,7 @@
         { "variant": "Checked", "enable": "n" },
         { "variant": "Child-Selection", "enable": "n" },
         { "variant": "Dark Mode", "enable": "n" },
-        { "variant": "Disabled", "enable": "n" }
+        { "variant": "Disabled", "enable": "n" },
         { "variant": "Expand", "enable": "n" },
         { "variant": "First-Last-Selection", "enable": "n" },
         { "variant": "First-Letter", "enable": "n" },
@@ -527,7 +527,7 @@
         { "variant": "Reduce-Motion", "enable": "n" },
         { "variant": "Responsive", "enable": "n" },
         { "variant": "Selection-Hover", "enable": "n" },
-        { "variant": "Visited", "enable": "n" },
+        { "variant": "Visited", "enable": "n" }
       ]
     }
   ],
@@ -583,7 +583,7 @@
         { "variant": "Reduce-Motion", "enable": "n" },
         { "variant": "Responsive", "enable": "n" },
         { "variant": "Selection-Hover", "enable": "n" },
-        { "variant": "Visited", "enable": "n" },
+        { "variant": "Visited", "enable": "n" }
       ]
     }
   ],
