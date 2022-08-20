@@ -18,6 +18,7 @@ Using utilities to add CSS pseudo-class to style an element:
 - [selection-hover](/pseudo-class-variants/#selection-hover)
 - [expand](/pseudo-class-variants/#expand)
 - [first-of-type, last-of-type](/pseudo-class-variants/#first-last)
+- [first-letter](/pseudo-class-variants/#first-letter),
 - [portrait](/pseudo-class-variants/#portrait), [landscape](/pseudo-class-variants/#landscape)
 - [hover](/pseudo-class-variants/#hover), [group-hover](/pseudo-class-variants/#group-hover)
 - [focus](/pseudo-class-variants/#focus), [group-focus](/pseudo-class-variants/#group-focus), [focus-visible](/pseudo-class-variants/#focus-visible), [focus-within](/pseudo-class-variants/#focus-within)
@@ -329,6 +330,29 @@ Default selected few utilities for `(expand)` variant.
 ## First-last
 
 Add `(first)` or `(last)` prefix to a utility in a parent element, the utility will take effect to first child or last child elements.
+
+{{ console('html',
+'<!-- Example -->
+<!-- parent -->
+<div class="(first)text-xl-2 (last)text-xs">
+    <!-- child -->
+    <div>...</div>
+    <div>...</div>
+    ...
+  </div>
+') }}
+
+{{ console('scss',
+'.example {
+    @extend
+      .\\(first\\)text-xl-2,
+      .\\(last\\)text-xs;
+}
+') }}
+
+## First Letter
+
+Add `(first-letter)` prefix to a utility in a parent element, the utility will take effect to child element containing text and apply effect to first letter of the text.
 
 {{ console('html',
 '<!-- Example -->
