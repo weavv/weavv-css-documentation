@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4d4d57c5-8541-48ee-9112-5d688cf85d7e/deploy-status)](https://app.netlify.com/sites/weavvcss/deploys)
 
-![image](/images/github/banner.png)
+![image](https://raw.githubusercontent.com/weavv/weavv-css-documentation/main/images/github/banner.png)
 
 ## WEAVV CSS Documentation
 
