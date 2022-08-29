@@ -38,7 +38,7 @@ Utilities for sets the animation control with limited loop or infinite.
 {% from "misc/console.njk" import console %}
 
 {{ console('html',
-'<div class="animation blur-in loop-infinite">
+'<div class="morph blur-in loop-infinite">
     ...
   </div>
 ') }}
@@ -46,7 +46,7 @@ Utilities for sets the animation control with limited loop or infinite.
 {{ console('scss',
 '.dummy {
     @extend
-      .animation,
+      .morph,
       .blur-in,
       .loop-infinite;
 }

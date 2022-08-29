@@ -39,7 +39,7 @@ Utilities for sets the animation control with durations.
 {% from "misc/console.njk" import console %}
 
 {{ console('html',
-'<div class="animation blur-in duration-2000">
+'<div class="morph blur-in duration-2000">
     ...
   </div>
 ') }}
@@ -47,7 +47,7 @@ Utilities for sets the animation control with durations.
 {{ console('scss',
 '.dummy {
     @extend
-      .animation,
+      .morph,
       .blur-in,
       .duration-2000;
 }

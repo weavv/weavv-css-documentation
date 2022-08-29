@@ -40,7 +40,7 @@ Utilities for sets the rolling animation to an element.
 Set basic roll animation.
 
 {{ console('html',
-'<div class="animation roll-in-left">
+'<div class="morph roll-in-left">
     ...
   </div>
 ') }}
@@ -48,7 +48,7 @@ Set basic roll animation.
 {{ console('scss',
 '.dummy {
     @extend
-      .animation,
+      .morph,
       .roll-in-left;
 }
 ') }}
@@ -56,7 +56,7 @@ Set basic roll animation.
 Mix with duration.
 
 {{ console('html',
-'<div class="animation roll-in-left duration-2000">
+'<div class="morph roll-in-left duration-2000">
     ...
   </div>
 ') }}
@@ -64,7 +64,7 @@ Mix with duration.
 {{ console('scss',
 '.dummy {
     @extend
-      .animation,
+      .morph,
       .roll-in-left,
       .duration-2000;
 }
@@ -73,7 +73,7 @@ Mix with duration.
 Mix with duration and delay.
 
 {{ console('html',
-'<div class="animation roll-in-left duration-2000 delay-2">
+'<div class="morph roll-in-left duration-2000 delay-2">
     ...
   </div>
 ') }}
@@ -81,7 +81,7 @@ Mix with duration and delay.
 {{ console('scss',
 '.dummy {
     @extend
-      .animation,
+      .morph,
       .roll-in-left,
       .duration-2000,
       .delay-2;
@@ -91,7 +91,7 @@ Mix with duration and delay.
 Mix with duration, delay and infinite looping.
 
 {{ console('html',
-'<div class="animation roll-in-left duration-2000 delay-2 loop-infinite">
+'<div class="morph roll-in-left duration-2000 delay-2 loop-infinite">
     ...
   </div>
 ') }}
@@ -99,7 +99,7 @@ Mix with duration, delay and infinite looping.
 {{ console('scss',
 '.dummy {
     @extend
-      .animation,
+      .morph,
       .roll-in-left,
       .duration-2000,
       .loop-infinite;
@@ -109,7 +109,7 @@ Mix with duration, delay and infinite looping.
 Apply `(hover)` variant,
 
 {{ console('html',
-'<div class="animation (hover)roll-in-left">
+'<div class="morph (hover)roll-in-left">
     ...
   </div>
 ') }}
@@ -117,7 +117,7 @@ Apply `(hover)` variant,
 {{ console('scss',
 '.dummy {
     @extend
-      .animation,
+      .morph,
       .\(hover\)roll-in-left;
 }
 ') }}

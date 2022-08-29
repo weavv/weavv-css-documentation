@@ -44,7 +44,7 @@ Utilities for sets the sliding animation to an element.
 Set basic slide animation.
 
 {{ console('html',
-'<div class="animation slide-in-up">
+'<div class="morph slide-in-up">
     ...
   </div>
 ') }}
@@ -52,7 +52,7 @@ Set basic slide animation.
 {{ console('scss',
 '.dummy {
     @extend
-      .animation,
+      .morph,
       .slide-in-up;
 }
 ') }}
@@ -60,7 +60,7 @@ Set basic slide animation.
 Mix with duration.
 
 {{ console('html',
-'<div class="animation slide-in-up duration-2000">
+'<div class="morph slide-in-up duration-2000">
     ...
   </div>
 ') }}
@@ -68,7 +68,7 @@ Mix with duration.
 {{ console('scss',
 '.dummy {
     @extend
-      .animation,
+      .morph,
       .slide-in-up,
       .duration-2000;
 }
@@ -77,7 +77,7 @@ Mix with duration.
 Mix with duration and delay.
 
 {{ console('html',
-'<div class="animation slide-in-up duration-2000 delay-2">
+'<div class="morph slide-in-up duration-2000 delay-2">
     ...
   </div>
 ') }}
@@ -85,7 +85,7 @@ Mix with duration and delay.
 {{ console('scss',
 '.dummy {
     @extend
-      .animation,
+      .morph,
       .slide-in-up,
       .duration-2000,
       .delay-2;
@@ -95,7 +95,7 @@ Mix with duration and delay.
 Mix with duration, delay and infinite looping.
 
 {{ console('html',
-'<div class="animation slide-in-up duration-2000 delay-2 loop-infinite">
+'<div class="morph slide-in-up duration-2000 delay-2 loop-infinite">
     ...
   </div>
 ') }}
@@ -103,7 +103,7 @@ Mix with duration, delay and infinite looping.
 {{ console('scss',
 '.dummy {
     @extend
-      .animation,
+      .morph,
       .slide-in-up,
       .duration-2000,
       .loop-infinite;
@@ -113,7 +113,7 @@ Mix with duration, delay and infinite looping.
 Apply `(hover)` variant,
 
 {{ console('html',
-'<div class="animation (hover)slide-in-up">
+'<div class="morph (hover)slide-in-up">
     ...
   </div>
 ') }}
@@ -121,7 +121,7 @@ Apply `(hover)` variant,
 {{ console('scss',
 '.dummy {
     @extend
-      .animation,
+      .morph,
       .\(hover\)slide-in-up;
 }
 ') }}

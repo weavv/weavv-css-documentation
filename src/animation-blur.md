@@ -38,7 +38,7 @@ Utilities for sets the blur animation to an element.
 Set basic blur animation.
 
 {{ console('html',
-'<div class="animation blur-in">
+'<div class="morph blur-in">
     ...
   </div>
 ') }}
@@ -46,7 +46,7 @@ Set basic blur animation.
 {{ console('scss',
 '.dummy {
     @extend
-      .animation,
+      .morph,
       .blur-in;
 }
 ') }}
@@ -54,7 +54,7 @@ Set basic blur animation.
 Mix with duration.
 
 {{ console('html',
-'<div class="animation blur-in duration-2000">
+'<div class="morph blur-in duration-2000">
     ...
   </div>
 ') }}
@@ -62,7 +62,7 @@ Mix with duration.
 {{ console('scss',
 '.dummy {
     @extend
-      .animation,
+      .morph,
       .blur-in,
       .duration-2000;
 }
@@ -71,7 +71,7 @@ Mix with duration.
 Mix with duration and delay.
 
 {{ console('html',
-'<div class="animation blur-in duration-2000 delay-2">
+'<div class="morph blur-in duration-2000 delay-2">
     ...
   </div>
 ') }}
@@ -79,7 +79,7 @@ Mix with duration and delay.
 {{ console('scss',
 '.dummy {
     @extend
-      .animation,
+      .morph,
       .blur-in,
       .duration-2000,
       .delay-2;
@@ -89,7 +89,7 @@ Mix with duration and delay.
 Mix with duration, delay and infinite looping.
 
 {{ console('html',
-'<div class="animation blur-in duration-2000 delay-2 loop-infinite">
+'<div class="morph blur-in duration-2000 delay-2 loop-infinite">
     ...
   </div>
 ') }}
@@ -97,7 +97,7 @@ Mix with duration, delay and infinite looping.
 {{ console('scss',
 '.dummy {
     @extend
-      .animation,
+      .morph,
       .blur-in,
       .duration-2000,
       .delay-2,
@@ -108,7 +108,7 @@ Mix with duration, delay and infinite looping.
 Apply `(hover)` variant,
 
 {{ console('html',
-'<div class="animation (hover)blur-in">
+'<div class="morph (hover)blur-in">
     ...
   </div>
 ') }}
@@ -116,7 +116,7 @@ Apply `(hover)` variant,
 {{ console('scss',
 '.dummy {
     @extend
-      .animation,
+      .morph,
       .\(hover\)blur-in;
 }
 ') }}

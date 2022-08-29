@@ -54,7 +54,7 @@ Utilities for sets the fading animation to an element.
 Set basic fade animation.
 
 {{ console('html',
-'<div class="animation fade-in">
+'<div class="morph fade-in">
     ...
   </div>
 ') }}
@@ -62,7 +62,7 @@ Set basic fade animation.
 {{ console('scss',
 '.dummy {
     @extend
-      .animation,
+      .morph,
       .fade-in;
 }
 ') }}
@@ -70,7 +70,7 @@ Set basic fade animation.
 Mix with duration.
 
 {{ console('html',
-'<div class="animation fade-in duration-2000">
+'<div class="morph fade-in duration-2000">
     ...
   </div>
 ') }}
@@ -78,7 +78,7 @@ Mix with duration.
 {{ console('scss',
 '.dummy {
     @extend
-      .animation,
+      .morph,
       .fade-in,
       .duration-2000;
 }
@@ -87,7 +87,7 @@ Mix with duration.
 Mix with duration and delay.
 
 {{ console('html',
-'<div class="animation fade-in duration-2000 delay-2">
+'<div class="morph fade-in duration-2000 delay-2">
     ...
   </div>
 ') }}
@@ -95,7 +95,7 @@ Mix with duration and delay.
 {{ console('scss',
 '.dummy {
     @extend
-      .animation,
+      .morph,
       .fade-in,
       .duration-2000,
       .delay-2;
@@ -105,7 +105,7 @@ Mix with duration and delay.
 Mix with duration, delay and infinite looping.
 
 {{ console('html',
-'<div class="animation fade-in duration-2000 loop-infinite">
+'<div class="morph fade-in duration-2000 loop-infinite">
     ...
   </div>
 ') }}
@@ -113,7 +113,7 @@ Mix with duration, delay and infinite looping.
 {{ console('scss',
 '.dummy {
     @extend
-      .animation,
+      .morph,
       .fade-in,
       .duration-2000,
       .loop-infinite;
@@ -123,7 +123,7 @@ Mix with duration, delay and infinite looping.
 Apply `(hover)` variant.
 
 {{ console('html',
-'<div class="animation (hover)fade-in">
+'<div class="morph (hover)fade-in">
     ...
   </div>
 ') }}
@@ -131,7 +131,7 @@ Apply `(hover)` variant.
 {{ console('scss',
 '.dummy {
     @extend
-      .animation,
+      .morph,
       .\(hover\)fade-in;
 }
 ') }}

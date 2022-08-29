@@ -37,7 +37,7 @@ Utilities for sets the animation control with delays.
 {% from "misc/console.njk" import console %}
 
 {{ console('html',
-'<div class="animation blur-in ... delay-2">
+'<div class="morph blur-in ... delay-2">
     ...
   </div>
 ') }}
@@ -45,7 +45,7 @@ Utilities for sets the animation control with delays.
 {{ console('scss',
 '.dummy {
     @extend
-      .animation,
+      .morph,
       .blur-in,
       .delay-2;
 }
