@@ -56,6 +56,7 @@
         { "label": "Pointer Events", "url": "/pointer-events/" },
         { "label": "Placeholder Color", "url": "/placeholder-color/" },
         { "label": "Resize", "url": "/resize/" },
+        { "label": "Scroll Behaviour", "url": "/scroll-behaviour/" },
         { "label": "Scroll Bar", "url": "/scroll-bar/", "new": "n" },
         { "label": "Scroll Smooth", "url": "/scroll-behavior/", "new": "n" },
         { "label": "Scroll Snap", "url": "/scroll-snap/", "new": "n" },
