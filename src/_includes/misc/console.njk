@@ -1,9 +1,0 @@
-{% macro console(lang, codes) %}
-<div class="relative">
-
-  ```{{ lang }}
-  {{ codes | safe }}
-  ```
-  {% include "misc/labels/" + lang + ".njk" %}
-</div>
-{% endmacro %}

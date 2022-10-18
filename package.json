@@ -1,60 +1,23 @@
 {
-  "name": "weavv-css-documentation",
+  "name": "knott-js-documentation",
   "version": "1.0.0",
-  "description": "The official WEAVV CSS documentation website",
+  "description": "The official Knott.JS Documentation",
+  "url": "https://github.com/louislow81/knott-js-documentation/issues",
+  "author": "Louis Low <iamlouislow@gmail.com> (https://github.com/louislow81/knott-js-documentation.js)",
+  "license": "MIT",
   "scripts": {
-    "dev": "gulp embed-playground && NODE_ENV=development npx @11ty/eleventy --config=eleventy.config.js --serve && gulp && gulp css && gulp move-css && npm test && gulp playground",
-    "prod": "gulp embed-playground && NODE_ENV=production gulp build && NODE_ENV=production npx @11ty/eleventy --config=eleventy.config.js && gulp purge-css && gulp remove-residual-files && gulp playground",
-    "test": "mdspell -r -n -a --en-us 'src/*.md' 'src/**/*.md'",
-    "clean": "rm -rfv ./dist/*"
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs && npm run playground",
+    "docs:serve": "vitepress serve docs",
+    "playground": "cp -r ./playground ./docs/.vitepress/dist/"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/weavv/weavv-css-documentation.git"
-  },
-  "keywords": [
-    "weavv-css",
-    "nunjunks",
-    "markdown",
-    "markdown-to-html"
-  ],
-  "author": {
-    "name": "Louis Low",
-    "email": "iamlouislow@gmail.com",
-    "web": "https://louislow81.github.io"
-  },
-  "license": "MIT",
-  "engines": {
-    "node": "14.19.1"
+    "url": "git+https://github.com/louislow81/knott-js-documentation.git",
+    "type": "git"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.0",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
-    "@babel/core": "^7.9.6",
-    "@babel/preset-env": "^7.9.6",
-    "anchor-js": "^4.2.2",
-    "babel-loader": "^8.1.0",
-    "cssnano": "^4.1.10",
-    "gulp": "^4.0.2",
-    "gulp-clean": "^0.4.0",
-    "gulp-concat": "^2.6.1",
-    "gulp-postcss": "^8.0.0",
-    "gulp-purgecss": "^2.1.2",
-    "gulp-rename": "^2.0.0",
-    "gulp-sass": "^4.0.2",
-    "html-minifier": "^4.0.0",
-    "lodash": "^4.17.19",
-    "lunr": "^2.3.8",
-    "markdown-it": "^12.3.2",
-    "markdown-it-anchor": "^5.3.0",
-    "markdown-it-attrs": "^3.0.2",
-    "markdown-spellcheck": "^1.3.1",
-    "prism-themes": "^1.4.0",
-    "webpack-stream": "^5.2.1"
-  },
-  "dependencies": {
-    "autoprefixer": "^9.8.5",
-    "highlight.js": "^10.0.3",
-    "npm-check-updates": "^12.5.9"
+    "vitepress": "^1.0.0-alpha.11",
+    "vue": "^3.2.37",
+    "weavvcss": "^1.0.3"
   }
 }
